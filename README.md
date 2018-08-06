@@ -1,0 +1,1 @@
+tailwind-palette-clrs
